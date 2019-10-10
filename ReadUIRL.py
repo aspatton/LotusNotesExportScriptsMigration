@@ -1,3 +1,5 @@
+# Example file to export images from a web page 
+
 import re
 import requests
 from bs4 import BeautifulSoup
