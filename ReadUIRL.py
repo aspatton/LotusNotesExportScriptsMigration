@@ -27,3 +27,4 @@ with open("export.csv") as sourceFile:
                     url = '{}{}'.format(pageURL, url)
                 response = requests.get(url)
                 f.write(response.content)
+		# This is good
