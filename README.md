@@ -14,3 +14,5 @@ This is a great feature, but exporting the data to a local file or another appli
 
 The LotusScript file (agent) exports all available data to CSV file. The Python script reads the CSV file (Document ID first column) and reads the document via Domino and Document ID (via View) and pulls images from the page (any images larger than 5KB) with images saved locally and path stored in CSV file.
 
+Issues
+----------
